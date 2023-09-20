@@ -3,7 +3,7 @@
 
 <h3 align="center">
   Welcome to GHada Salama profile!
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy1.gif](https://avatars.githubusercontent.com/u/7692029?u=11a1d9ba231e01c34c224e45dd59f6a938059122&v=4)" width="28">
+  <img src="https://avatars.githubusercontent.com/u/7692029?s=400&u=11a1d9ba231e01c34c224e45dd59f6a938059122&v=4" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
